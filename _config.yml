@@ -28,6 +28,7 @@ github_username:  alexvolchetsky
 linkedin_username: alexvolchetsky
 disqus:
     shortname: alexvolchetsky
+google_analytics: UA-156028670-1
 
 # Build settings
 theme: minima
